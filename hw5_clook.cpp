@@ -18,6 +18,7 @@ for(int i=0;i<n-1;i++)
       break;
     }
   }
+return 0;
 }
 
 int main()
